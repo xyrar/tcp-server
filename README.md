@@ -9,5 +9,4 @@ Make sure you have Rust installed: https://www.rust-lang.org/tools/install
 Then build and run the project:
 
 ```bash
-cargo build --release
 cargo run
