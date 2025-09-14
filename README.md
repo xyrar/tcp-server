@@ -1,4 +1,4 @@
-# tcp server
+# TCP Server
 
 A simple Rust TCP server that echoes back messages from clients.
 
@@ -9,5 +9,7 @@ A simple Rust TCP server that echoes back messages from clients.
 2. Build the project:
 ```bash
 cargo build --release
+Run it:
 
-3.
+```bash
+cargo run
